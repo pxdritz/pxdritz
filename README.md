@@ -65,8 +65,6 @@ $ cat stack.md
 
 <img src="https://skillicons.dev/icons?i=html,css,kotlin,java,lua,cs,rust,python,js,ts,go,cpp" alt="HTML CSS Kotlin Java Lua C# Rust Python JavaScript TypeScript Go C++" />
 
-<br><br>
-
 <img src="https://docs.fabricmc.net/logo.png" alt="Fabric" height="44" />
 
 </div>
