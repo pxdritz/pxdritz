@@ -43,10 +43,6 @@ $ cat links.md
 
 <div align="center">
 
-[![Minecraft](https://img.shields.io/badge/Minecraft-Expert-62B643?style=for-the-badge&logo=minecraft&logoColor=white)](https://modrinth.com/user/pxotitas)
-[![YouTube](https://img.shields.io/badge/YouTube-Creator-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@pxdritz1)
-[![Discord](https://img.shields.io/badge/Discord-Community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/rX8jE45kgP)
-
 </div>
 
 <br>
