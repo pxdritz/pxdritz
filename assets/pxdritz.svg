@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="160" viewBox="0 0 800 160" preserveAspectRatio="xMidYMid meet">
+  <defs>
+    <style type="text/css">
+      @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;700&display=swap');
+      .title { font-family: 'JetBrains Mono', monospace; font-size:96px; font-weight:700; fill:#facb48; }
+      .shadow { fill: rgba(0,0,0,0.12); }
+    </style>
+  </defs>
+  <!-- subtle shadow -->
+  <text x="40" y="110" class="title" style="filter: drop-shadow(2px 2px 2px rgba(0,0,0,0.25));">pxdritz</text>
+  <!-- main text -->
+  <text x="36" y="106" class="title">pxdritz</text>
+</svg>
