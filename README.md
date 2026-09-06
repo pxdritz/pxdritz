@@ -24,36 +24,44 @@ $ cat about.md
 
 <br>
 
-## 🖥️ System & Tools
+```bash
+$ cat system.md
+```
 
 <div align="center">
 
-### System
-
-<img src="https://cdn.simpleicons.org/debian/A81D33" alt="Debian" height="48" />
-<img src="https://raw.githubusercontent.com/niri-wm/niri/main/resources/niri.svg" alt="Niri" height="48" />
-
-<br><br>
-
-### Tools
-
-<img src="https://cdn.simpleicons.org/vscodium/2F80ED" alt="VSCodium" height="48" />
-<img src="https://cdn.simpleicons.org/git/F05032" alt="Git" height="48" />
-<img src="https://cdn.simpleicons.org/github/FFFFFF" alt="GitHub" height="48" />
-<img src="https://cdn.simpleicons.org/godot/478CBF" alt="Godot" height="48" />
-<img src="https://cdn.simpleicons.org/krita/3BABFF" alt="Krita" height="48" />
-<img src="https://cdn.simpleicons.org/libresprite/9E9E9E" alt="LibreSprite" height="48" />
-<img src="https://cdn.simpleicons.org/kimi/FFFFFF" alt="Kimi K3" height="48" />
+<img src="https://cdn.simpleicons.org/debian/A81D33" alt="Debian 13" height="44" />
+<img src="./assets/niri-logo.svg" alt="Niri" height="44" />
 
 </div>
 
 <br>
 
-## ⚙️ Technologies
+```bash
+$ cat tools.md
+```
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,kotlin,java,lua,cs,rust,python,js,ts,go,cpp" alt="Technologies" />
+<img src="https://cdn.simpleicons.org/vscodium/2F80ED" alt="VSCodium" height="44" />
+<img src="https://cdn.simpleicons.org/git/F05032" alt="Git" height="44" />
+<img src="https://cdn.simpleicons.org/github/FFFFFF" alt="GitHub" height="44" />
+<img src="https://cdn.simpleicons.org/godot/478CBF" alt="Godot" height="44" />
+<img src="./assets/libresprite-logo.svg" alt="LibreSprite" height="44" />
+<img src="https://cdn.simpleicons.org/krita/3BABFF" alt="Krita" height="44" />
+<img src="https://cdn.simpleicons.org/kimi/FFFFFF" alt="Kimi K3" height="44" />
+
+</div>
+
+<br>
+
+```bash
+$ cat stack.md
+```
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,kotlin,java,lua,cs,rust,python,js,ts,go,cpp" alt="HTML CSS Kotlin Java Lua C# Rust Python JavaScript TypeScript Go C++" />
 
 <br><br>
 
@@ -63,7 +71,9 @@ $ cat about.md
 
 <br>
 
-## 🎯 Areas
+```bash
+$ cat focus.md
+```
 
 <div align="center">
 
