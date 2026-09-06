@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="200" viewBox="0 0 800 200" preserveAspectRatio="xMidYMid meet">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@700&display=swap');
+      .mono { font-family: 'JetBrains Mono', monospace; font-weight:700; font-size:48px; fill:#facb48; }
+      .shadow { fill: rgba(0,0,0,0.15); }
+    </style>
+  </defs>
+
+  <!-- soft shadow -->
+  <text x="52" y="110" class="mono shadow" style="transform: translate(2px,2px);">██████╗  █████╗ ██╗  ██╗████████╗</text>
+  <text x="52" y="160" class="mono shadow" style="transform: translate(2px,2px);">██╔══██╗██╔══██╗██║ ██╔╝╚══██╔══╝</text>
+
+  <!-- main ASCII-like lines in the wanted color -->
+  <text x="50" y="100" class="mono">██████╗  █████╗ ██╗  ██╗████████╗</text>
+  <text x="50" y="150" class="mono">██╔══██╗██╔══██╗██║ ██╔╝╚══██╔══╝</text>
+
+  <!-- small monospace signature -->
+  <text x="420" y="40" font-family="JetBrains Mono, monospace" font-size="14" fill="#facb48">pxdritz</text>
+</svg>

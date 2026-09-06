@@ -1,4 +1,4 @@
-<img src="assets/pxdritz.svg" alt="pxdritz" width="800" />
+<img src="assets/pxdritz-ascii.svg" alt="pxdritz" width="800" />
 
 ---
 
@@ -10,32 +10,27 @@ pxdritz  --  she/her
 Minecraft content creator · mod developer · COO, EdonMe Studios
 ```
 
----
++-------------------------------------------------------------------------------
+| SYSTEM DASHBOARD
++-------------------------------------------------------------------------------
+| ABOUT
+|  - Cria conteúdo sobre Minecraft: mods, tutoriais e showcases.
+|  - Produz vídeos no YouTube focados em gameplay e guias.
+|  - Atua no desenvolvimento e na comunidade da EdonMe Studios.
+|
+| LINKS
+|  • YouTube : https://youtube.com/@pxdritz1
+|  • Website : https://pxdritz.github.io
+|  • Modrinth: https://modrinth.com/user/pxotitas
+|  • Discord : https://discord.gg/rX8jE45kgP
+|
+| BADGES (text)
+|  [ MINECRAFT ] Expert    [ YOUTUBE ] Creator    [ DISCORD ] Community
++-------------------------------------------------------------------------------
 
 ```bash
-# SYSTEM DASHBOARD
-# ----------------------------------------------------------------------
-# ABOUT
-# ----------------------------------------------------------------------
-# - Cria conteúdo sobre Minecraft: mods, tutoriais e showcases.
-# - Produz vídeos no YouTube focados em gameplay e guias.
-# - Atua no desenvolvimento e na comunidade da EdonMe Studios.
-#
-# LINKS
-# ----------------------------------------------------------------------
-# YouTube : https://youtube.com/@pxdritz1
-# Website : https://pxdritz.github.io
-# Modrinth: https://modrinth.com/user/pxotitas
-# Discord : https://discord.gg/rX8jE45kgP
-#
-# BADGES (text mode)
-# ----------------------------------------------------------------------
-# [ MINECRAFT ] Expert    [ YOUTUBE ] Creator    [ DISCORD ] Community
-#
-# PROFILE VIEWS
-# ----------------------------------------------------------------------
-# Run: curl -s "https://komarev.com/ghpvc/?username=pxdritz&style=flat-square" | sed -n '1p'
-# ----------------------------------------------------------------------
+# Profile views (terminal)
+# Run: curl -s "https://komarev.com/ghpvc/?username=pxdritz&style=flat-square"
 ```
 
 ---
