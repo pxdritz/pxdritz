@@ -17,8 +17,8 @@ Minecraft content creator · mod developer · **COO, EdonMe Studios**
 ```bash
 $ cat about.md
 ```
-
-- Building Minecraft mods, datapacks, and tools under **EdonMe Studios**.
+<div align="center">
+- Building Minecraft mods, datapacks, and tools under EdonMe Studios.
 - Making YouTube content: gameplay, tutorials, and dev showcases.
 - Currently shipping on Fabric 1.21.x — always tinkering with something.
 
