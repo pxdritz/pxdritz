@@ -45,11 +45,11 @@ $ cat tools.md
 
 <img src="https://cdn.simpleicons.org/vscodium/2F80ED" alt="VSCodium" height="44" />
 <img src="https://cdn.simpleicons.org/git/F05032" alt="Git" height="44" />
-<img src="https://cdn.simpleicons.org/github/FFFFFF" alt="GitHub" height="44" />
+<img src="https://www.svgrepo.com/show/361182/github-inverted.svg" alt="GitHub" height="44" />
 <img src="https://godotengine.org/assets/press/icon_monochrome_light.png" alt="Godot" height="44" />
 <img src="https://avatars.githubusercontent.com/u/21368660?s=280&v=4" alt="LibreSprite" height="44" />
 <img src="https://cdn.simpleicons.org/krita/3BABFF" alt="Krita" height="44" />
-<img src="https://cdn.simpleicons.org/kimi/FFFFFF" alt="Kimi K3" height="44" />
+<img src="https://images.seeklogo.com/logo-png/61/2/kimi-logo-png_seeklogo-611650.png" alt="Kimi K3" height="44" />
 <img src="https://cdn.simpleicons.org/figma/F24E1E" alt="Figma" height="44" />
 <img src="https://cdn.simpleicons.org/obsidian/7C3AED" alt="Obsidian" height="44" />
 
