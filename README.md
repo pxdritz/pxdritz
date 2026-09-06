@@ -17,7 +17,7 @@ Minecraft content creator · mod developer · **COO, EdonMe Studios**
 ```bash
 $ cat about.md
 ```
-<div align="center">
+
 - Building Minecraft mods, datapacks, and tools under EdonMe Studios.
 - Making YouTube content: gameplay, tutorials, and dev showcases.
 - Currently shipping on Fabric 1.21.x — always tinkering with something.
@@ -50,6 +50,8 @@ $ cat tools.md
 <img src="https://avatars.githubusercontent.com/u/21368660?s=280&v=4" alt="LibreSprite" height="44" />
 <img src="https://cdn.simpleicons.org/krita/3BABFF" alt="Krita" height="44" />
 <img src="https://cdn.simpleicons.org/kimi/FFFFFF" alt="Kimi K3" height="44" />
+<img src="https://cdn.simpleicons.org/figma/F24E1E" alt="Figma" height="44" />
+<img src="https://cdn.simpleicons.org/obsidian/7C3AED" alt="Obsidian" height="44" />
 
 </div>
 
@@ -65,7 +67,7 @@ $ cat stack.md
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=fabric,figma" alt="Fabric and Figma" />
+<img src="https://docs.fabricmc.net/logo.png" alt="Fabric" height="44" />
 
 </div>
 
