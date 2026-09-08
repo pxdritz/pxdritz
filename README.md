@@ -8,6 +8,14 @@
 
 <div align="center">
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A6A42663NV)
+
+</div>
+
+<br>
+
+<div align="center">
+
 Minecraft content creator · mod developer · **COO, EdonMe Studios**
 
 </div>
